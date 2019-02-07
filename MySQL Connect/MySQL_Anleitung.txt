@@ -1,0 +1,6 @@
+1. Skype beenden
+2. XAMPP Control Panel ausführen
+3. MySQL starten
+
+4. MySQL Workbench
+5. Visual Studio

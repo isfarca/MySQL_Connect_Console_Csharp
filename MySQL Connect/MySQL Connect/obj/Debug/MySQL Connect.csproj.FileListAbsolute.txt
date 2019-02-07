@@ -1,0 +1,8 @@
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\bin\Debug\MySQL Connect.exe.config
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\bin\Debug\MySQL Connect.exe
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\bin\Debug\MySQL Connect.pdb
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\bin\Debug\MySql.Data.dll
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\bin\Debug\MySql.Data.xml
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\obj\Debug\MySQL Connect.csprojResolveAssemblyReference.cache
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\obj\Debug\MySQL Connect.exe
+D:\Hobby\Anwendungen\Learning\C#_Konsole_Tests\MySQL Connect\MySQL Connect\obj\Debug\MySQL Connect.pdb
